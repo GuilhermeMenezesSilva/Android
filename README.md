@@ -12,8 +12,8 @@ Este desafio foi criado pelo Gustavo Guanabara e faz parte do curso de HTML e CS
 
 Para criar este desafio, foram utilizadas as seguintes tecnologias:
 
-- HTML
-- CSS
+- `HTML`
+- `CSS`
 
 ## Como visualizar
 
