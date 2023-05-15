@@ -4,7 +4,7 @@ Este é um desafio de HTML e CSS, baseado no desafio do Curso em Vídeo, ministr
 ## Créditos
 Este desafio foi criado pelo Gustavo Guanabara e faz parte do curso de HTML e CSS do Curso em Vídeo. O material original pode ser encontrado no repositório oficial do curso:
 
-`[Desafio Android](https://github.com/gustavoguanabara/html-css/blob/master/desafios/modulo-02/d010/desafio-android.pdf)`
+- `[Desafio Android](https://github.com/gustavoguanabara/html-css/blob/master/desafios/modulo-02/d010/desafio-android.pdf)`
 
 ##Tecnologias utilizadas
 Para criar este desafio, foram utilizadas as seguintes tecnologias:
